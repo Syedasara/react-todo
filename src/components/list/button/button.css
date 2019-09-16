@@ -1,0 +1,28 @@
+.grey:hover{
+    font-weight: bold;
+    border: 2px solid  rgb(87, 86, 85);
+    color:  rgb(87, 86, 85);
+    background-color: rgb(188, 189, 180);
+}
+.red {
+    font-weight: bold;
+    color:  rgb(156, 37, 22);
+    background-color: rgb(212, 87, 87);
+    }
+.red:hover {
+    font-weight: bold;
+    border: 2px solid  rgb(156, 37, 22);
+    color:  rgb(156, 37, 22);
+    background-color: rgb(236, 118, 118);
+    }
+.yellow{
+        font-weight: bold;
+        color:  rgb(245, 209, 8);
+        background-color: rgb(247, 245, 144);
+        }
+.yellow:hover {
+        font-weight: bold;
+        border: 2px solid  rgb(245, 209, 8);
+        color: rgb(245, 209, 8);
+        background-color: rgb(239, 245, 156);
+        }
